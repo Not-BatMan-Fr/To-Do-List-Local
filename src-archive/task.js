@@ -1,7 +1,7 @@
 import edit from './assets/edit.png';
 import save from './assets/save.png';
 import del from './assets/trash.png';
-import taskList from './lists';
+import taskList from '../src/lists';
 
 function createTask() {
     const taskForm = document.createElement('form');

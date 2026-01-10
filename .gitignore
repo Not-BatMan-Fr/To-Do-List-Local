@@ -3,6 +3,7 @@
 webpack.config.js
 package.json
 package-lock.json
+tsconfig.json
 
 # modules
 node_modules/
