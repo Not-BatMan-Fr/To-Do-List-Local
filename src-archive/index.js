@@ -1,4 +1,4 @@
-import {createTask, loadData} from './task';
+import {createTask, loadData} from '../src/task';
 import './style.css';
 
 window.onload = loadData;
