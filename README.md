@@ -39,7 +39,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="https://to-do-list.page.gd/" target="_blank" rel="noopener noreferrer">To the App [To-Do]</a>
+
+<a href="https://to-do-list-ts.page.gd/" target="_blank" rel="noopener noreferrer">To the App [To-Do]</a>
 
 A local task management application designed to help you organize and track your to-do items with ease. Create tasks with detailed information, set priorities, assign due dates and times, and manage your productivity all from your browser using local storage.
 
